@@ -22,10 +22,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
+        <module name="autowire" />
         <module name="http2" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="autowire" target="1.5" />
       <module name="http2" target="1.6" />
     </bytecodeTargetLevel>
   </component>

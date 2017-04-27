@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/autowire/autowire.iml" filepath="$PROJECT_DIR$/autowire/autowire.iml" />
       <module fileurl="file://$PROJECT_DIR$/http2/http2.iml" filepath="$PROJECT_DIR$/http2/http2.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/spring.iml" filepath="$PROJECT_DIR$/.idea/spring.iml" />
     </modules>

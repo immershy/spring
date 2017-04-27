@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<beans>
+    <bean id="a" class="com.cmcc.autowire.clz.A"></bean>
+    <bean id="b" class="com.cmcc.autowire.clz.B"></bean>
+</beans>
